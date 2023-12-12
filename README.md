@@ -40,7 +40,9 @@
 
 ## OUTPUT:
 ![empd7 1](https://github.com/Hariveeraprasad-2006/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145049988/4fbd32cd-29b4-47a4-8d47-6b38ecfc586b)
+
 ![empd7 2](https://github.com/Hariveeraprasad-2006/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145049988/bdacb263-c23c-419e-96a2-6f43d75b2bbf)
+
 ![empd7 3](https://github.com/Hariveeraprasad-2006/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145049988/d83e83dd-76f3-4d66-ae6e-13b17aa502e9)
 
 ### Name:A.Hari Veera Prasad
